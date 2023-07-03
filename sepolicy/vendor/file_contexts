@@ -94,9 +94,6 @@
 # Data files
 /data/vendor/dolby(/.*)?   u:object_r:vendor_data_file:s0
 
-# Dolby
-/(vendor|system/vendor)/bin/hw/vendor\.dolby\.hardware\.dms@2\.0-service                                        u:object_r:hal_dms_default_exec:s0
-
 # RealmeParts
 /sys/bus/platform/drivers/kcal_ctrl/kcal_ctrl.[0-2](/.*)?        u:object_r:kcal_sysfs:s0
 /sys/devices/platform/kcal_ctrl.[0-2](/.*)?                      u:object_r:kcal_sysfs:s0
