@@ -148,9 +148,6 @@ PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := everything
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.crypto.volume.filenames_mode=aes-256-cts
 
-# Dex
-PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := everything
-
 # Display
 PRODUCT_PACKAGES += \
     android.frameworks.displayservice@1.0_32 \
