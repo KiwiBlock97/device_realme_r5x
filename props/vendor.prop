@@ -88,6 +88,7 @@ ro.bluetooth.a2dp_offload.supported=false
 ro.bluetooth.hfp.ver=1.7
 ro.vendor.bluetooth.wipower=false
 vendor.qcom.bluetooth.soc=cherokee
+vendor.hw.fm.init=0
 
 # Set supported Bluetooth profiles to enabled
 bluetooth.device.class_of_device=90,2,12
