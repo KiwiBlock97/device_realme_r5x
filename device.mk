@@ -224,9 +224,12 @@ PRODUCT_PACKAGES += \
     FM2 \
     libqcomfm_jni \
     qcom.fmradio \
-    qcom.fmradio.xml
+    qcom.fmradio.xml \
+    init.qti.fm.rc \
+    init.qti.fm.sh \
+    vendor.qti.hardware.fm@1.0.vendor
 
-#PRODUCT_BOOT_JARS += \
+PRODUCT_BOOT_JARS += \
     qcom.fmradio
 
 # Freeform Windows
