@@ -2255,30 +2255,18 @@ vendor/lib64/libkernelmanager.so|6e34cfed1b61ef27ac3740cf477e1ed836695513
 vendor/lib64/libllvm-glnext.so|da4e23a08f6cd7ad933add387b624c6c868fef6c
 vendor/lib64/libllvm-qcom.so|01c37f8efc8362168666fc811082dbbee14fbcbd
 
-# Graphics - SDM - from LA.UM.9.11.r1-04500-NICOBAR.0
-vendor/lib/libdisp-aba.so|539ac8ff89fd51fa0ce8a11d9c476843291392bc
-vendor/lib/libdisplayqos.so|1c01c72ca8e3ce28d3b0fb716e4d7ed21af44875
-vendor/lib/libdpps.so|6d658391d39d0abde0019ce8870d4c0f5c1e9386
-vendor/lib/libhdr_tm.so|9bd39324ca84ed0acd479dc8f591e7682024c76a
-vendor/lib/libqseed3.so|97d17f5694a845dcdf7e09cb99aa4a01ffc26ecd
-vendor/lib/libsdedrm.so|c52326b333df269927e02a3aeaa6c29b0b7cab33
-vendor/lib/libsdm-color.so|7a2fff2590efdc55fdf84c6005b1108aa901787f
-vendor/lib/libsdm-colormgr-algo.so|8f57dd5e9558c35930f2ade79fd3268ed8e2f5e9
-vendor/lib/libsdm-diag.so|5696da3008fa6497dd1ce6c8b9333ed4a9157f3a
-vendor/lib/libsdm-disp-vndapis.so|c4a130cb36c3928fe04ffcf4aaac28105baf6b20
-vendor/lib/libsdmextension.so|8fffe29414942e7364f0873abfd6e6f6565541ac
-vendor/lib/libtinyxml2_1.so|597d471aad4cd5c0cf73bab8bc04bac5ed95ee92
+# Graphics SDM - from LA.UM.9.1.r1-12900-SMxxx0.0
 vendor/lib64/libdisp-aba.so|44993853ff9d4340e856e6f53d802f10372442d3
 vendor/lib64/libdisplayqos.so|5548732c916e629f18f45ce257ce843b679a136a
-vendor/lib64/libdpps.so|1b834491e545c7d068734047c9fb704e9eab0213
-vendor/lib64/libhdr_tm.so|b4d129efafedbc82e122ef7edff26ca65204b630
+vendor/lib64/libdpps.so|a9d4e3806a433b9dfc7cb49556efa9fc65389e75
+vendor/lib64/libhdr_tm.so|a222a7d838735c5ce73f06d4096fea3ca19611c8
+vendor/lib64/libsdedrm.so|7cf5f4e7e4dacae88e317d3397fdf25dabe45b65
 vendor/lib64/libqseed3.so|7f2a659fb9acd84d79c11dbd6901b816d5d1214f
-vendor/lib64/libsdedrm.so|382eb3983fee819c1ec345f858ba62a4ce0ef7d3
-vendor/lib64/libsdm-color.so|795d32583dcd6e28ce8793b919e0bbad7332c656
-vendor/lib64/libsdm-colormgr-algo.so|073245d67ec606f7b73c34e2b4956ebcc81b350c
-vendor/lib64/libsdm-diag.so|c21a643ab4ec151e0374df8ce5b839f71d07df90
-vendor/lib64/libsdm-disp-vndapis.so|4fbf76da3a9eb5d227f948521bd4c80842446bb4
-vendor/lib64/libsdmextension.so|3ee78da2415ce630e7d8f0c96fea34c53341b7db
+vendor/lib64/libsdm-color.so|d0984c33dcbf84940676917e0c3584b0ccfeaf03
+vendor/lib64/libsdm-colormgr-algo.so|15f696a4575868e528360896f1e0098d531899c0
+vendor/lib64/libsdm-diag.so|8c038fda1addb5c9cb075d6ae1000698782ddd8b
+vendor/lib64/libsdm-disp-vndapis.so|60da199073d2b0881bf075190a644b332503f39c
+vendor/lib64/libsdmextension.so|e10d29f29b7a53b75369e58e8a165b2b86609f26
 vendor/lib64/libtinyxml2_1.so|ff32deb110acb02cb5def5f3404f9064c1276483
 
 # Health
